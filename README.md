@@ -6,9 +6,9 @@ This is Hessam
 
 Here are some ideas to get you started:
 
-* 🔭 I’m currently working on small-medium sized projects to automate my tasks
-* 🌱 I’m currently improving my JS and Python programming skills
-* 👯 I’m looking to collaborate on various projects in automation
+* 🔭 I’m currently working on medium-large sized SaaS projects
+* 🌱 I’m currently improving my TS and Solidity programming skills
+* 👯 I’m looking to collaborate on various projects in web3 and automation
 * 📫 How to reach me: hesam_mehdizadeh@hotmail.com
 * 😄 Pronouns: he/him
 
